@@ -1,0 +1,27 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    color: rgb(4, 4, 80);
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 3px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    color: blue;
+
+}
+.articles {
+    border-style:solid;
+    border-color: rgb(189, 186, 202);
+    border-width: 20px;
+    padding: 3%;
+    margin-left: 15%;
+    margin-right:15%;
+    text-align: justify;
+}
+.vertical-line {
+    width: 100%;
+    border-left: 4px solid rgb(189, 186, 202);
+    padding-left: 2px;
+}
